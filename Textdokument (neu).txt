@@ -1,0 +1,44 @@
+1 C
+2 D
+3 B
+4 B
+5 C
+6 B
+7 C
+8 D ?
+9 C
+10 B Als Basis zur Erstellung der Testfälle für den Abnahmetest.
+11 C
+12 A
+13 C
+14 C
+15 D
+16 B
+17 A
+18 C
+19 A
+20 B
+21 B
+22 B
+23 B
+24 D
+25 B
+26 D
+27 D
+28 B
+29 B
+30 B also 3
+31 C
+32 B
+33 C
+34 D
+35 C
+36 D
+37 C
+38 D
+39 C
+40 B also Testfall 3 da doppelt
+
+
+
+
